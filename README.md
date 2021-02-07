@@ -1,4 +1,3 @@
-# pingPong
 # Bienvenido a PingPong
 **url de la página**: https://michaelviloria.github.io/pingPong/
 
